@@ -1,0 +1,9 @@
+Episodes run: 61
+Alpha: 1.0
+Gamma: 0.99
+Epsilon schedule: linear from 1.0 to 0.05
+End on jump end: False
+Obstacles (1-indexed): []
+Mean return: -8.574
+Mean steps: 60.2
+Goal success rate: 100.00%
