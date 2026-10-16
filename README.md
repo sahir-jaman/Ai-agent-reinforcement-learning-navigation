@@ -22,6 +22,9 @@ Q-learning: the agent keeps a table of values Q(state, action) and updates it af
 Settings: learning rate α = 1.0, discount factor γ = 0.99, up to 100 episodes. Training stops early once the average return over the last 30 episodes is above 10.
 Key finding: the agent learned to cheat
 
+<img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/8c8afc12-392b-4c00-ae31-477b5460d0e0" />
+
+
 On the open grid, the learned state values came out at around 200, even though the best honest route is worth only about 12.
 
 Show Image
